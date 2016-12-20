@@ -1,6 +1,3 @@
-"""
-
-"""
 
 questions = open('data/parsed_questions.txt').read()
 questions = questions.splitlines()
